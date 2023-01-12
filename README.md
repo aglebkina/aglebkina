@@ -24,7 +24,15 @@
 ### My projects  
 - Project 1 - [Testing of web-application Yandex.Marshruty](https://github.com/anastasiiaglebkina/Project-1-Yandex.Marshruty)  
 - Project 2 - [Testing of web-application Yandex.Marshruty v2](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2)  
-- Project 3 - []()  
-- Project 4 - []()  
-- Project 5 - []()  
-- Project 6 - []()  
+- Project 3 - [Mobile testing](https://github.com/anastasiiaglebkina/Project-3-Mobile-testing)  
+- Project 4 - [API testing Yandex.Prilavok](https://github.com/anastasiiaglebkina/Project-4-API-testing-Yandex.Prilavok)  
+- Project 5 - [SQL simulator course](https://github.com/anastasiiaglebkina/SQL-simulator)  
+- Project 6 - [Testing Net banking facility](https://github.com/anastasiiaglebkina/Project-6-Net-banking-facility)  
+- Project 7 - [Insurance testing](https://github.com/anastasiiaglebkina/Project-7-Insurance-testing)  
+### My certificates - [Link to my certificates](https://github.com/anastasiiaglebkina/Certificates)  
+
+### Contacts
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/aglebkina/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/)
+[![Header](https://img.shields.io/badge/email-black?logo=gmail&logoColor=white&style=for-the-badge)]()
+
