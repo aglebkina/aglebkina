@@ -1,4 +1,4 @@
-## Junior Software Tester  
+## Software Test Engineer  
 ### My CV - [Link to my CV](https://github.com/aglebkina/My-CV)  
 ### Skills & Tools  
 
