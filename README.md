@@ -1,4 +1,4 @@
-## I am a Junior Software Tester  
+## Junior Software Tester  
 ### My CV - [Link to my CV](https://github.com/aglebkina/My-CV)  
 ### Skills & Tools  
 
@@ -34,6 +34,5 @@
 
 ### Contacts
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/aglebkina/)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/)
-[![Header](https://img.shields.io/badge/email-black?logo=gmail&logoColor=white&style=for-the-badge)]()
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/aglebkina)
 
