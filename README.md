@@ -20,6 +20,7 @@
 ![Header](https://img.shields.io/badge/JSON-black?logo=JSON&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/xml-black?logo=xml&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/java-black?logo=java&logoColor=white&style=for-the-badge)  
+![Header](https://img.shields.io/badge/visual%20studio%20code-black?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)
 
 ### My projects  
 - Project 1 - [Testing of web-application Yandex.Marshruty](https://github.com/aglebkina/Project-1-Yandex.Marshruty)  
