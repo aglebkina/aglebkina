@@ -1,5 +1,5 @@
 ## I am a Junior Software Tester  
-### My CV - [Link to my CV]()  
+### My CV - [Link to my CV](https://github.com/aglebkina/My-CV)  
 ### Skills & Tools  
 
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
