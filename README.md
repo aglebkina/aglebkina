@@ -1,4 +1,4 @@
-## Software Test Engineer  
+## Software Test Engineer | Currently - VK beta tester   
 ### My CV - [Link to my CV](https://github.com/aglebkina/My-CV)  
 ### Skills & Tools  
 
@@ -21,6 +21,7 @@
 ![Header](https://img.shields.io/badge/xml-black?logo=xml&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/java-black?logo=java&logoColor=white&style=for-the-badge)  
 ![Header](https://img.shields.io/badge/visual%20studio%20code-black?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)
+![Header](https://img.shields.io/badge/jira-black?logo=jira&logoColor=white&style=for-the-badge)
 
 ### My projects  
 - Project 1 - [Testing of web-application Yandex.Marshruty](https://github.com/aglebkina/Project-1-Yandex.Marshruty)  
