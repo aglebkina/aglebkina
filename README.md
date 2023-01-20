@@ -31,6 +31,8 @@
 - Project 5 - [SQL simulator course](https://github.com/aglebkina/Project-5-SQL-simulator)  
 - Project 6 - [Testing Net banking facility](https://github.com/aglebkina/Project-6-Net-banking-facility)  
 - Project 7 - [Insurance testing](https://github.com/aglebkina/Project-7-Insurance-testing)  
+- Java project - [My java programms](https://github.com/aglebkina/Test-Perf-lab) 
+
 ### My certificates - [Link to my certificates](https://github.com/aglebkina/Certificates)  
 
 ### Contacts
