@@ -19,19 +19,28 @@
 ![Header](https://img.shields.io/badge/Youtrack-black?logo=Youtrack&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/JSON-black?logo=JSON&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/xml-black?logo=xml&logoColor=white&style=for-the-badge)
-![Header](https://img.shields.io/badge/java-black?logo=java&logoColor=white&style=for-the-badge)  
+![Header](https://img.shields.io/badge/java-black?logo=java&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/visual%20studio%20code-black?logo=visual%20studio%20code&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/jira-black?logo=jira&logoColor=white&style=for-the-badge)
+![Header](https://img.shields.io/badge/cygwin-black?logo=cygwin&logoColor=white&style=for-the-badge)
 
 ### My projects  
-- Project 1 - [Testing of web-application Yandex.Marshruty](https://github.com/aglebkina/Project-1-Yandex.Marshruty)  
-- Project 2 - [Testing of web-application Yandex.Marshruty v2](https://github.com/aglebkina/Project-2-Yandex.Marshruty-v2)  
-- Project 3 - [Mobile testing](https://github.com/aglebkina/Project-3-Mobile-testing)  
-- Project 4 - [API testing Yandex.Prilavok](https://github.com/aglebkina/Project-4-API-testing-Yandex.Prilavok)  
-- Project 5 - [SQL simulator course](https://github.com/aglebkina/Project-5-SQL-simulator)  
-- Project 6 - [Testing Net banking facility](https://github.com/aglebkina/Project-6-Net-banking-facility)  
-- Project 7 - [Insurance testing](https://github.com/aglebkina/Project-7-Insurance-testing)  
-- Java project - [My java programms](https://github.com/aglebkina/Test-Perf-lab) 
+#### *Yandex.Practicum*
+1. Test analysis and test design, test-cases creation for web-application Yandex.Marshruty - [Check the project](https://github.com/aglebkina/Project-1-Yandex.Marshruty)  
+2. UI and functional testing of web-application Yandex.Marshruty - [Check the project](https://github.com/aglebkina/Project-2-Yandex.Marshruty-v2)  
+3. Mobile testing (Android studio + Android device) - [Check the project](https://github.com/aglebkina/Project-3-Mobile-testing)  
+4. API testing of web-application Yandex.Prilavok - [Check the project](https://github.com/aglebkina/Project-4-API-testing-Yandex.Prilavok)  
+5. Connecting to a remote server, work with Cygwin terminal - [Check the project](https://github.com/aglebkina/Project-5-Cygwin-terminal)  
+
+
+* Project 5 - [SQL simulator course](https://github.com/aglebkina/Project-5-SQL-simulator)  
+* Project 6 - [Testing Net banking facility](https://github.com/aglebkina/Project-6-Net-banking-facility)  
+* Project 7 - [Insurance testing](https://github.com/aglebkina/Project-7-Insurance-testing)  
+* Java project - [My java programms](https://github.com/aglebkina/Test-Perf-lab) 
+
+#### *Guru99 - Live projects*
+
+#### *Courses and practice*
 
 ### My certificates - [Link to my certificates](https://github.com/aglebkina/Certificates)  
 
