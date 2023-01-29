@@ -1,5 +1,5 @@
 ## Software Test Engineer | Currently - VK beta tester   
-### My CV - [Link to my CV](https://github.com/aglebkina/My-CV/blob/e569fd7fca5fc169879a00f96af6f0b7ac91cd92/Glebkina%20A%20CV.pdf)  
+### My CV - [Link to my CV](https://github.com/aglebkina/My-CV/blob/8dd42082614b0dfda3226a4bfb7709a1de9caca0/Glebkina%20A%20CV.pdf)  
 ### Skills & Tools  
 
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
