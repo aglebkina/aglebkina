@@ -24,6 +24,9 @@
 ![Header](https://img.shields.io/badge/jira-black?logo=jira&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/cygwin-black?logo=cygwin&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=white&style=for-the-badge)
+![Header](https://img.shields.io/badge/Javascript-black?logo=Javascript&logoColor=white&style=for-the-badge)
+![Header](https://img.shields.io/badge/nodejs-black?logo=nodejs&logoColor=white&style=for-the-badge)
+![Header](https://img.shields.io/badge/eclipse-black?logo=eclipse&logoColor=white&style=for-the-badge)
 
 ### My projects  
 #### *Yandex.Practicum*
@@ -33,6 +36,7 @@
 * API testing of web-application Yandex.Prilavok - [Check the project](https://github.com/aglebkina/Project-4-API-testing-Yandex.Prilavok)  
 * Connecting to a remote server, work with Cygwin terminal - [Check the project](https://github.com/aglebkina/Project-5-Cygwin-terminal)  
 * SQL (PostgreSQL) - [Check the project](https://github.com/aglebkina/Project-5-Cygwin-terminal)
+* Automation testing (JavaScript) - [Check the project](https://github.com/aglebkina/autotest-yandex-js)
 * Diploma project (web-apllication, mobile, API testing) - [Check the project](https://github.com/aglebkina/Diploma-project)
 
 #### *Guru99 - Live projects*
