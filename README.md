@@ -1,5 +1,5 @@
 ## Software Test Engineer | QA Engineer   
-### My CV - [Link to my CV](https://github.com/aglebkina/My-CV/blob/8dd42082614b0dfda3226a4bfb7709a1de9caca0/Glebkina%20A%20CV.pdf)  
+### My CV - [Link to my CV](https://github.com/aglebkina/My-CV/blob/ccaaa01145ae8438d272cdf3232bc24e89b4790c/QA%20Engineer%20GlebkinaA.pdf)  
 ### Skills & Tools  
 
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
@@ -28,25 +28,35 @@
 ![Header](https://img.shields.io/badge/nodejs-black?logo=nodejs&logoColor=white&style=for-the-badge)
 ![Header](https://img.shields.io/badge/eclipse-black?logo=eclipse&logoColor=white&style=for-the-badge)
 
-### My projects  
-#### *Yandex.Practicum*
-* Test analysis and test design, test-cases creation for web-application Yandex.Marshruty - [Check the project](https://github.com/aglebkina/Project-1-Yandex.Marshruty)  
-* UI and functional testing of web-application Yandex.Marshruty - [Check the project](https://github.com/aglebkina/Project-2-Yandex.Marshruty-v2)  
-* Mobile testing (Android studio + Android device) - [Check the project](https://github.com/aglebkina/Project-3-Mobile-testing)  
-* API testing of web-application Yandex.Prilavok - [Check the project](https://github.com/aglebkina/Project-4-API-testing-Yandex.Prilavok)  
-* Connecting to a remote server, work with Cygwin terminal - [Check the project](https://github.com/aglebkina/Project-5-Cygwin-terminal)  
-* SQL (PostgreSQL) - [Check the project](https://github.com/aglebkina/Project-5-Cygwin-terminal)
-* Automation testing (JavaScript) - [Check the project](https://github.com/aglebkina/autotest-yandex-js)
-* Diploma project (web-apllication, mobile, API testing) - [Check the project](https://github.com/aglebkina/Diploma-project)
-
-#### *Guru99 - Live projects*
-
+### Projects  
+#### *Manual web application testing*  
+* Test analysis (SRS, Mockups), test-design, test-cases preparation for web-application Marshruty v.1 - [Check the project](https://github.com/aglebkina/Web-app-Marshruty)  
+* UI and functional testing, cross-browser testing, testing new feature (with Charles) of web application Marshruty v.2 - [Check the project](https://github.com/aglebkina/web-app-Marshruty-v2)  
+* Functional testing of Prilavok web application - [Check the project](https://github.com/aglebkina/web-app-Prilavok)  
+* Functional and UI testing of Samokat web application - [Check the project](https://github.com/aglebkina/web-app-samokat)  
 * Testing Net banking facility (web-application) - [Check the project](https://github.com/aglebkina/Guru-Net-banking-facility)  
-* Scrum testing - [Check the project](https://github.com/aglebkina/Guru-Scrum-project)  
+* Testing insurance web-application - [Check the project](https://github.com/aglebkina/guru-insurance-project)  
 
-#### *Courses and practice*
-* SQL course - [Check the project](https://github.com/aglebkina/SQL-simulator-course)  
+#### *Mobile application testing*  
+* Mobile testing (Android studio + Android device) - [Check the project](https://github.com/aglebkina/Project-3-Mobile-testing)  
+* Testing of Samokat mobile application - [Check the project](https://github.com/aglebkina/mobile-samokat)  
+
+#### *API testing*
+* API testing of web-application Prilavok - [Check the project](https://github.com/aglebkina/Project-4-API-testing-Yandex.Prilavok)  
+* API testing of web application Samokat - [Check the project](https://github.com/aglebkina/api-samokat)  
+
+#### *SQL*  
+* SQL (PostgreSQL) - [Check the project](https://github.com/aglebkina/Project-5-Cygwin-terminal)
+* SQL course - [Check the project](https://github.com/aglebkina/SQL-simulator-course) 
+* Connecting to a remote server, work with Cygwin terminal - [Check the project](https://github.com/aglebkina/Project-5-Cygwin-terminal)  
+
+#### *Automation testing*  
+* Automation testing (JavaScript) - [Check the project](https://github.com/aglebkina/autotest-yandex-js)
 * 4 Java programms - [Check the project](https://github.com/aglebkina/Java-4-tasks)  
+
+#### *Agile*  
+
+* Scrum testing - [Check the project](https://github.com/aglebkina/Guru-Scrum-project)  
 
 ### My certificates - [Link to my certificates](https://github.com/aglebkina/Certificates)  
 
