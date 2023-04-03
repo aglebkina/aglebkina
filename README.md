@@ -1,4 +1,4 @@
-## Software Test Engineer | Currently - VK beta tester   
+## Software Test Engineer | QA Engineer   
 ### My CV - [Link to my CV](https://github.com/aglebkina/My-CV/blob/8dd42082614b0dfda3226a4bfb7709a1de9caca0/Glebkina%20A%20CV.pdf)  
 ### Skills & Tools  
 
